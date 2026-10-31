@@ -15,7 +15,7 @@ The git history is the timestamp: each week's calls are committed before their h
 
 | Item | Rule |
 | --- | --- |
-| Decision time | Thursday about 08:20 UTC (11:50 Tehran) |
+| Decision time | Thursday 08:12 UTC (11:42 Tehran) |
 | Data used | Daily closes strictly before the decision date |
 | Entry | Close of the decision Thursday (first close on or after it) |
 | Exit | Close of the following Wednesday (last close before the next Thursday) |
