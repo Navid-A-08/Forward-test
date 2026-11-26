@@ -1,32 +1,32 @@
-Forward test v1 | Thursday 2026-11-19
+Forward test v1 | Thursday 2026-11-26
 
-Last week's result (signals of 2026-11-12):
+Last week's result (signals of 2026-11-19):
 Strategy        Avg return  Hits
-Elastic net        -1.98%    0/4
-Buy & hold         -4.78%   1/10
-Momentum 12w       +3.73%   9/10
-Mean rev 1w        -4.94%   1/10
-Coin flip          -1.11%   5/10
+Elastic net        -2.06%    1/5
+Buy & hold         -2.26%   3/10
+Momentum 12w       +2.36%   8/10
+Mean rev 1w        -2.25%   3/10
+Coin flip          +0.75%   7/10
 
 Scoreboard (all weeks so far, avg of 10 markets):
 Strategy        Wks  Total   Hit%  Sharpe  t
-Elastic net       2   -1.3%   33%  -2.40 -0.47
-Buy & hold        2   -3.9%   30%  -3.50 -0.69
-Momentum 12w      2   +3.2%   65%  +3.96 +0.78
-Mean rev 1w       2   -4.7%   35%  -4.68 -0.92
-Coin flip         2   +0.0%   60%  +0.07 +0.01
+Elastic net       3   -3.3%   29%  -5.06 -1.22
+Buy & hold        3   -6.1%   30%  -5.21 -1.25
+Momentum 12w      3   +5.7%   70%  +6.31 +1.52
+Mean rev 1w       3   -6.9%   33%  -6.51 -1.56
+Coin flip         3   +0.8%   63%  +1.56 +0.37
 (Under 26 weeks: differences are mostly noise.)
 
 This week's calls (enter Thu close, exit Wed close):
 Market       EN   Mom  MRev Coin
 Gold         BUY  SELL BUY  SELL
-Silver       BUY  SELL BUY  SELL
-WTI oil      hold BUY  BUY  SELL
-Natural gas  hold BUY  SELL BUY 
+Silver       hold SELL BUY  SELL
+WTI oil      hold SELL SELL BUY 
+Natural gas  hold BUY  BUY  SELL
 Copper       BUY  SELL BUY  BUY 
 EUR/USD      hold SELL BUY  SELL
-USD/JPY      hold BUY  SELL SELL
+USD/JPY      hold SELL BUY  BUY 
 S&P 500      BUY  SELL BUY  BUY 
 Nasdaq 100   BUY  SELL BUY  SELL
-Bitcoin      hold SELL BUY  BUY 
+Bitcoin      hold SELL SELL BUY 
 Buy & hold: BUY everything.
